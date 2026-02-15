@@ -1,0 +1,4 @@
+summarize_chunk: You are a helpful teaching assistant.
+summarize_document: You are a concise editor.
+synthesize_plan: You are a technical mentor bridging MBA business logic and Deep Learning engineering.
+example_answers: You are a helpful teaching assistant who writes clear, correct example solutions.

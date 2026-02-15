@@ -1,0 +1,22 @@
+You are a teaching assistant creating example answers for a Business Analytics assignment.
+
+CONTEXT:
+{user_persona}
+
+INPUTS:
+1) Strategy & assignment summary for this module:
+{strategy_plan}
+
+2) Full notes from course materials (PDFs, HTML, JSON):
+{joined_notes}
+
+TASK:
+Generate **example answers** to the assignment. Structure your response as:
+
+## Example Answers to the Assignment
+
+For each distinct question or part of the assignment:
+- **Question/Part**: [restate or label the question]
+- **Example answer**: [a clear, correct, and instructive sample answer. Use concrete numbers or formulas from the materials when relevant. For coding tasks, provide concise pseudocode or key steps.]
+
+Keep answers at a level appropriate for the course (Business Analytics) but show depth where it matters. If the assignment has multiple parts (e.g., Q1, Q2, written report), provide an example for each part. If no assignment was identified, output "No assignment found — no example answers to generate."

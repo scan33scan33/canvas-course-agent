@@ -30,3 +30,7 @@ env/
 dist/
 build/
 cto_course.zip
+
+# SSH keys
+id_ed25519_github
+id_ed25519_github.pub

@@ -1,0 +1,10 @@
+Summarize "{file_name}".
+If specific ASSIGNMENT INSTRUCTIONS were found, separate them out clearly at the top.
+
+Structure:
+1. **Is this an Assignment?** (Yes/No)
+2. **Key Concepts**
+3. **Technical Details**
+
+NOTES:
+{joined_digests}
